@@ -12,6 +12,9 @@ This README details a multi-part project, each focusing on different aspects of 
 
 **Objective**: Understanding the topology of a neural network and performing manual calculations.
 
+![image](https://github.com/suchirnaik/NeuralNetworkDeepDive/assets/122578575/ca3f4146-df88-4f47-9402-1319b65c9200)
+
+
 **Tasks**:
 - **(a) Output Generation**: Calculated the outputs of a feedforward neural network with two input neurons, two hidden neurons, and two output neurons using ReLU activation functions. Manually determined the values for each neuron.
 - **(b) Sum of Squared Errors (SSE)**: Computed the SSE for the network to assess the difference between actual and desired outputs.
